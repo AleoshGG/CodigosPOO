@@ -14,4 +14,5 @@ public class Triagulo extends Figura{
         float areaTriangulo = (super.getBase()*altura)/2;
         return "El area del triangulo es de: "+areaTriangulo+" U^2";
     }
+    
 }
